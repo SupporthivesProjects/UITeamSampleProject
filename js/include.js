@@ -1,10 +1,8 @@
-// js/include.js
-function includeHTML() {
-    document.querySelectorAll('[data-include]').forEach(el => {
-      fetch(el.getAttribute('data-include'))
-        .then(res => res.text())
-        .then(data => el.innerHTML = data);
-    });
-  }
-  
-  window.onload = includeHTML;  
+function loadHTML(id, file) {
+  fetch(file)
+    .then(response => response.text())
+    .then(data => document.getElementById(id).innerHTML = data);
+}
+
+loadHTML("header", "header.html");
+loadHTML("footer", "footer.html");
