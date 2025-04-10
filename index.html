@@ -11,6 +11,8 @@
     integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 
   <title>Sample Project</title>
+    <!-- Link to external CSS file -->
+    <link rel="stylesheet" href="./css/rstyle.css">
 </head>
 
 <body>
@@ -19,9 +21,15 @@
   <div data-include="header.html"></div>
 
   <!-- Page Content -->
-  <main class="container mt-5">
-    <h2>Welcome to the homepage</h2>
-    <p>This is the body content of index.html</p>
+  <main>
+    <section>
+      <div class="top">
+        <img class="indeximg1" src="./media/indeximg1.jpg">
+      </div>
+      <div class="bottom">
+        <img class="indeximg1" src="./media/indeximg2.jpg">
+      </div>
+    </section>
   </main>
 
   <!-- Footer Include -->
@@ -46,5 +54,4 @@
   <script src="js/include.js"></script>
 
 </body>
-
 </html>
