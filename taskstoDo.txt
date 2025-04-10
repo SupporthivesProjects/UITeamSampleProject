@@ -8,7 +8,24 @@ create the following pages :
 Rules
 1. Create header.html and footer.html - we should include header and footer in all 4 files 
 2. Use bootstrap - starter document and use that in all files 
-3. About us - add two sections one with image full image and one with dummy text
+3. About us - add two sections one with image full image and one with dummy text 
 4. index.html - add two sections - both images full back ground 
 5. terms.html - add two sections - top section with image and dummy content 
 6. contact.html - use a bootstrap ready made form - and put it
+
+
+1. Vijay Rahul and Saakshi - create your own branches
+2. Vijay go to your branch
+3. Vijay you have to assign task to Rahul and Saakshi - make changes in tasksto
+4. Rahul and Saakshi you login , create your branch - GO TO YOUR branch
+5. PUSH ALL CHANGES TO YOUR BRANCH 
+6. RAISE A PR - PULL REQUEST WHICH WILL COME TO JEET , I WILL MERGE ALL CODE FROM YOUR BRANCH TO MAIN 
+7. I WILL DROP A MESSAGE IN THE MORNING.
+8. YOU HAVE TO PULL FROM MAIN BRANCH - INTO YOUR BRANCH
+
+GOLDER Rules
+1. DO NOT WORK ON MAIN BRANCH - NO PUSH TO MAIN BRANCH
+2. YOU WORK IN YOUR BRANCH - ALL PUSH WILL BE TO YOUR BRANCH 
+3. AFTER MY MESSAGE - PULL FROM MAIN BRANCH 
+
+EXTENTION TO DOWNLOAD - GIT PULL REQUEST 
