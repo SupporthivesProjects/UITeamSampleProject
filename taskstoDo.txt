@@ -6,12 +6,12 @@ create the following pages :
 4. contactus.html
 
 Rules
-1. Create header.html and footer.html - we should include header and footer in all 4 files 
-2. Use bootstrap - starter document and use that in all files 
-3. About us - add two sections one with image full image and one with dummy text 
-4. index.html - add two sections - both images full back ground 
-5. terms.html - add two sections - top section with image and dummy content 
-6. contact.html - use a bootstrap ready made form - and put it
+1. Create header.html and footer.html - we should include header and footer in all 4 files --vijay
+2. Use bootstrap - starter document and use that in all files --vijay
+3. About us - add two sections one with image full image and one with dummy text --rahul
+4. index.html - add two sections - both images full back ground --vijay
+5. terms.html - add two sections - top section with image and dummy content ---Saakshi
+6. contact.html - use a bootstrap ready made form - and put it ---rahul
 
 
 1. Vijay Rahul and Saakshi - create your own branches
