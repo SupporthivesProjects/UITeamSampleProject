@@ -3,3 +3,59 @@
     padding: 0px;
     box-sizing: border-box;
 }
+navbar-nav{
+    gap: 20px;
+}
+section{
+    position: relative;
+    padding: 4rem 0;
+}
+html, body{
+    overflow-x: hidden;
+}
+.navbar{
+    background: #907575;
+}
+.bg-image {
+  object-fit: cover;
+}
+.bg-image {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
+.bg-image:not([class*=absolute]) {
+  position: absolute;
+}
+.homebanner{
+    height: 800px;
+    width: 100%;
+    max-width: 100%;
+}
+.homeabutsection{
+    height: 800px;
+    width: 100%;
+    max-width: 100%;
+}
+footer{
+    background: #907575;
+}
+footer a{
+    text-decoration: none;
+    color:#000;
+}
+
+@media screen and (max-width: 600px) {
+    .homebanner{
+        height: 600px;
+        width: 100%;
+        max-width: 100%;
+    }
+    .homeabutsection{
+        height: 600px;
+        width: 100%;
+        max-width: 100%;
+    }
+  }
